@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @chaoticvariable
 - 👀 I’m interested in data, coffee, cats, illustration.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on TBD.
-- 📫 How to reach me: with difficulty.
-- 😄 Pronouns: she, her
+- 🌱 I’m currently learning:
+- [x] Python
+- [ ] Javascript
 - ⚡ Fun fact: Sometimes I hold tea parties.
 
 <!---
